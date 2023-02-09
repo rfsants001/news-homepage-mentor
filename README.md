@@ -25,11 +25,11 @@ Users should be able to:
 
 #### WEB
 
-![](./screenshot-web.jpg.jpg)
+![](./screenshot-web.jpg)
 
 #### Mobile
 
-![](./screenshot-mobile.jpg.jpg)
+![](./screenshot-mobile.jpg)
 
 ### Links
 
